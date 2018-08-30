@@ -12,7 +12,7 @@ summary: My team developed a weather-sensing module that will be part of a broad
 ---
 # Smart Campus Energy Lab
 
-<img class="ui centered image" src="klauritz.github.io/images/scel.png"/>
+<img class="ui centered image" src="https://klauritz.github.io/images/scel.png"/>
 
 ***
 

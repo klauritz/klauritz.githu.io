@@ -12,6 +12,10 @@ summary: My team developed a weather-sensing module that will be part of a broad
 ---
 # Smart Campus Energy Lab
 
+<img class="ui centered image" src="klauritz.github.io/images/scel.png">
+
+***
+
 The Smart Campus Energy Lab is a small team of Electrical, Computer, and Mechanical Engineers that are working to provide the school with significant sources of renewable energy on the campus. The long-term goal is to remove the entire campus off of the grid and let it run on it's own renewable energy sources. A secondary effort of the lab is to teach and prepare the students to work in a real-world engineering environment, allowing students to work on a real-world product.
 
 Currently, the lab is developing sensor nodes that will be installed on the rooftops of various buildings across campus. The development process requires the students to design a device that periodically sends weather data wirelessly to a central database (called the 'Gateway'). The students are split into teams, each developing their own design of a weatherbox. Other teams are centered around designing the housings, or developing software/firmware utilities.

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/scel.png
 title: "Making a More Efficient Campus"
 date: 2018-08-29
 labels:
@@ -12,7 +12,7 @@ summary: My team developed a weather-sensing module that will be part of a broad
 ---
 # Smart Campus Energy Lab
 
-<img class="ui centered image" src="klauritz.github.io/images/scel.png">
+<img class="ui centered image" src="klauritz.github.io/images/scel.png"/>
 
 ***
 

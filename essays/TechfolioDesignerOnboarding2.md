@@ -9,11 +9,11 @@ labels:
 ---
 # Introduction
 
-To get used to working on developing the Techfolio Designer application, I was tasked with making 6 small changes to the current state of the application. This article will go over what files have been changed, what I learned about the system, and what problems I had and my solutions.
+To get used to working on developing the Techfolio Designer application, I was tasked with making 6 small changes to the current state of the application. This article will go over what files have been changed, what I learned about the system, and what problems I had.
 
 # 1. Change Background Color of Splash Page
 
-For this assignment, I was tasked with changing th backgroud color of the splash page to light grey.
+For this assignment, I was tasked with changing the backgroud color of the splash page to light grey.
 
 ### Files Changed
 
@@ -21,7 +21,7 @@ For this assignment, I was tasked with changing th backgroud color of the splash
 
 ### What I Learned
 
-I learned about the location of the splash page and how to style the html of the window.
+I learned about the location of the splash page and how to style the HTML of the window.
 
 ### Problems Encountered
 
@@ -37,11 +37,11 @@ When expanding the window, I noticed that the light-grey background didn't exten
 
 ### What I Learned
 
-I learned how to add an additional table, as well as how to use Moment.js with `moment().format('hh:mm:ss a')`. Looking at the Moment.js documentation showed me a lot of ways that this can be useful. It was also interesting to figure out when the table is updated. I found out that changing the time whenever the `mapStateToProps` function is called worked.
+I learned how to add an additional table, as well as how to use Moment.js with `moment().format('hh:mm:ss a')`. Looking at the Moment.js documentation showed me a lot of ways that this can be useful. It was also interesting to figure out when the table is updated. I found out that changing the time whenever the `mapStateToProps()` function is called worked.
 
 ### Problems Encountered
 
-For a while, whenever I used Moment.js functions, my Last Modified section wouldn't work. I found out that the format I was using was invalid, and I switched to using `hh:mm:ss a` instead and that fixed my problem.
+For a while, whenever I used Moment.js functions, my Last Modified section wouldn't work. I found out that the format I was using was invalid, and I switched to using `hh:mm:ss a` instead of `ddd, hA` (which was on one of the examples), and that fixed my problem.
 
 <img class="ui centered image" src="https://klauritz.github.io/images/ics491-p2.png"/>
 
@@ -53,7 +53,7 @@ For a while, whenever I used Moment.js functions, my Last Modified section would
 
 ### What I Learned
 
-I learned how to build an additional button in the sub-menu and implementing a function to that menu. I wrote a simple function that would use `dialog.showMessageBox()` to show the time using `moment().format('hh:mm:ss a')` every time that the new menu item is clicked.
+I learned how to build an additional button in the sub-menu and implement a function to that menu. I wrote a simple function that would use `dialog.showMessageBox()` to show the time using `moment().format('hh:mm:ss a')` every time the new menu item is clicked.
 
 ### Problems Encountered
 

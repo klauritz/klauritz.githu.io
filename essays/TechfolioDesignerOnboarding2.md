@@ -89,7 +89,7 @@ I first had to learn how to increase the Grid size of the Networks tab to accomo
 
 ### Problems Encountered
 
-There weren't any problems encountered for this one. I found the task to be straightforward and I luckily didn't come acroess any complications.
+There weren't any problems encountered for this one. I found the task to be straightforward and I luckily didn't come across any complications.
 
 <img class="ui centered image" src="https://klauritz.github.io/images/ics491-p5.png"/>
 

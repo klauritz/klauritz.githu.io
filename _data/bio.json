@@ -16,28 +16,35 @@
     },
     "profiles": [
       {
-        "network": "github",
+        "network": "GitHub",
         "username": "klauritz",
         "url": "http://github.com/klauritz"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
+        "network": "LinkedIn",
+        "username": "klauritz",
         "url": "linkedin.com/in/kenneth-lauritzen-49907216a"
+      },
+      {
+        "network": "Emal",
+        "username": "kmlauritz@gmail.com",
+        "url": "mailto:kmlauritz@gmail.com"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "Mobile Apps"
       ]
     },
     {
       "name": "Machine Learning",
-      "keywords": []
+      "keywords": [
+        "AI"
+      ]
     },
     {
       "name": "artificial intelligence",

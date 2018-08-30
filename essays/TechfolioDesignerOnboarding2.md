@@ -27,7 +27,6 @@ I learned about the location of the splash page and how to style the html of the
 
 When expanding the window, I noticed that the light-grey background didn't extend to fit the whole window. I added `height: 100%` to the in-line styling to resolve the issue.
 
-![Figure 1: Changing the Background Color][figure1]
 <img class="ui centered image" src="https://klauritz.github.io/images/ics491-p1.png"/>
 
 # 2. Add "last modified" Timestamp to Splash Page
@@ -44,7 +43,7 @@ I learned how to add an additional table, as well as how to use Moment.js with `
 
 For a while, whenever I used Moment.js functions, my Last Modified section wouldn't work. I found out that the format I was using was invalid, and I switched to using `hh:mm:ss a` instead and that fixed my problem.
 
-![Figure 2: Add 'Last Modified'][figure2]
+<img class="ui centered image" src="https://klauritz.github.io/images/ics491-p2.png"/>
 
 # 3. Add Menu Item to Config Menu
 
@@ -60,7 +59,7 @@ I learned how to build an additional button in the sub-menu and implementing a f
 
 I had trouble implementing `dialog` and importing it. I would get an error saying that dialog was not defined, but I eventually read that I had to import it like `import { dialog } from 'electron'` and when I did that, the application worked as desired.
 
-![Figure 3: Add Menu Item to Config Menu][figure3]
+<img class="ui centered image" src="https://klauritz.github.io/images/ics491-p3.png"/>
 
 # 4. Add Simple Validation to Set Github Repo Name
 
@@ -76,7 +75,7 @@ I learned how to take an input from a user prompt, as well as compare it and val
 
 Initially, I didn't know where to start on this one. I took a while searching the files for where to implement the validation, as well as where the program is requesting the input from the user. I eventually just took an educated guess and started working on the function called `setRemoteRepo()`. It ended up to be the correct location to put the validation and the application successfully validated the repo names I inputted.
 
-![Figure 4: Simple Validation to Set Github Repo Name][figure4]
+<img class="ui centered image" src="https://klauritz.github.io/images/ics491-p4.png"/>
 
 # 5 Allow Four Networks in the Simple Bio Editor
 
@@ -92,7 +91,7 @@ I first had to learn how to increase the Grid size of the Networks tab to accomo
 
 There weren't any problems encountered for this one. I found the task to be straightforward and I luckily didn't come acroess any complications.
 
-![Figure 5: Four Networks][figure5]
+<img class="ui centered image" src="https://klauritz.github.io/images/ics491-p5.png"/>
 
 # 6. Perform Simple Validation on Project and Essay Files
 
@@ -108,15 +107,9 @@ As I am taking ICS 314 concurrently, I actually did not know how to find regular
 
 The tricky part was finding out how to get the text from the essay file. I experimented a little and found out that `this.state.value` would return a string of the contents in the file. This was the first step. The other problem I had was trying to get a notification to pop up using `dialog.showMessageBox()`, but instead I opted to use the Node Notifier package to handle the notification.
 
-![Figure 6: Simple Validation on Project and Essay Files][figure6]
+<img class="ui centered image" src="https://klauritz.github.io/images/ics491-p6.png"/>
 
 # Conclusion
 
 This assignment took a lot of thinking and time. It was frustrating at times to see that the problems that I spent so much time on ended up having a short and concise solution. Regardless, I learned a lot from this assignment, as it required me to dig into the applications code and try to understand a good portion of it. I look forward to learning a lot more as this course progresses.
 
-[figure1]: https://klauritz.github.io/images/ics491-p1.png "Changing the Background Color"
-[figure2]: https://klauritz.github.io/images/ics491-p2.png "Add 'Last Modified' Timestamp"
-[figure3]: https://klauritz.github.io/images/ics491-p3.png "Add Menu Item to Config Menu"
-[figure4]: https://klauritz.github.io/images/ics491-p4.png "Add Simple Validation to Set Repo Name"
-[figure5]: https://klauritz.github.io/images/ics491-p5.png "Allow Four Networks in Simple Bio Editor"
-[figure6]: https://klauritz.github.io/images/ics491-p6.png "Perform Simple Validation on Project and Essay Files"

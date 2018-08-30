@@ -28,6 +28,7 @@ I learned about the location of the splash page and how to style the html of the
 When expanding the window, I noticed that the light-grey background didn't extend to fit the whole window. I added `height: 100%` to the in-line styling to resolve the issue.
 
 ![Figure 1: Changing the Background Color][figure1]
+<img class="ui centered image" src="https://klauritz.github.io/images/ics491-p1.png"/>
 
 # 2. Add "last modified" Timestamp to Splash Page
 

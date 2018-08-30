@@ -113,9 +113,9 @@ The tricky part was finding out how to get the text from the essay file. I exper
 
 This assignment took a lot of thinking and time. It was frustrating at times to see that the problems that I spent so much time on ended up having a short and concise solution. Regardless, I learned a lot from this assignment, as it required me to dig into the applications code and try to understand a good portion of it. I look forward to learning a lot more as this course progresses.
 
-[figure1]: https://klauritz.github.io/images/ics491-p1.jpg "Changing the Background Color"
-[figure2]: https://klauritz.github.io/images/ics491-p2.jpg "Add 'Last Modified' Timestamp"
-[figure3]: https://klauritz.github.io/images/ics491-p3.jpg "Add Menu Item to Config Menu"
-[figure4]: https://klauritz.github.io/images/ics491-p4.jpg "Add Simple Validation to Set Repo Name"
-[figure5]: https://klauritz.github.io/images/ics491-p5.jpg "Allow Four Networks in Simple Bio Editor"
-[figure6]: https://klauritz.github.io/images/ics491-p6.jpg "Perform Simple Validation on Project and Essay Files"
+[figure1]: https://klauritz.github.io/images/ics491-p1.png "Changing the Background Color"
+[figure2]: https://klauritz.github.io/images/ics491-p2.png "Add 'Last Modified' Timestamp"
+[figure3]: https://klauritz.github.io/images/ics491-p3.png "Add Menu Item to Config Menu"
+[figure4]: https://klauritz.github.io/images/ics491-p4.png "Add Simple Validation to Set Repo Name"
+[figure5]: https://klauritz.github.io/images/ics491-p5.png "Allow Four Networks in Simple Bio Editor"
+[figure6]: https://klauritz.github.io/images/ics491-p6.png "Perform Simple Validation on Project and Essay Files"

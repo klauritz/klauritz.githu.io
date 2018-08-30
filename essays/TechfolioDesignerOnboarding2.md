@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Six Changes to Techfolio Designer"
-date: 2018-08-29
+date: 2018-08-2
 labels:
   - Electron
   - ICS 391

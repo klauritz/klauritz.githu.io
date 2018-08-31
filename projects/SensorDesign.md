@@ -11,7 +11,7 @@ labels:
 summary: I mentored a small group of high school students on how electrical engineers design and fabricate a product. I had them design their very own product and try to fabricate it. The product was a sensor that can detect how many inches of rain fell thoughout a certain time period.
 ---
 
-<img class="ui centered image" src="https://klauritz.github.io/images/scel-intern.png">
+<img class="ui centered image" src="https://klauritz.github.io/images/scel-intern.png" />
 <div class="ui bottom attached">Left: Kenneth Lauritzen, Mentor; Middle: Nicole (Intern); Right: Emily Lum (Mentor)</div>
 
 

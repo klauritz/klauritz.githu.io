@@ -22,7 +22,7 @@ I decided that a mobile application that can scan barcodes would be useful. The 
 
 ## Android Development
 
-<img class="ui left floated medium circular image" src="https://klauritz.github.io/images/android.jpg"/>
+<img class="ui left floated small circular image" src="https://klauritz.github.io/images/android.jpg"/>
 
 In the beginning, I had to start learning about developing an Android app. I also had to get used to working in Android Studio, which is an IDE specifically for Android development. I followed the tutorials and guides on the <a href="https://developer.android.com/guide/">Android Developers page</a>, and I was able to make user interfaces and different screens in no-time. However, the other two subjects proved to be much more difficult.
 

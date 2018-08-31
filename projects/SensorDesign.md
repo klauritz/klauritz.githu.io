@@ -10,6 +10,11 @@ labels:
   - Rainfall Sensor
 summary: I mentored a small group of high school students on how electrical engineers design and fabricate a product. I had them design their very own product and try to fabricate it. The product was a sensor that can detect how many inches of rain fell thoughout a certain time period.
 ---
+
+<img class="ui centered image" src="https://klauritz.github.io/images/scel-intern.png">
+<div class="ui bottom attached">Left: Kenneth Lauritzen, Mentor; Middle: Nicole (Intern); Right: Emily Lum (Mentor)</div>
+
+
 # Introduction
 
 As part of a summer program, I had to help mentor a pair of high schoolers. They both showed interest in engineering and signed up for this internship. We tasked them with helping us design a sensor that would detect rainfall and how many inches that the rain fell. They had the summer to brainstorm, design, and fabricate this sensor.

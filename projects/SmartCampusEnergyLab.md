@@ -24,6 +24,8 @@ I led a team within the Smart Campus Energy lab called Team Guava. We were taske
 
 Personally, I oversaw the project and developed most of the electrical schematic and printed circuit board design. We had to solve problems such as making sure all components and sensors are getting the proper current, or designing the PCB as small as possible to reduce the physical footprint of the device. The device itself runs on solar power, so it's self-sustainable. It transmits it's data wirelessly though an RF line using an XBee S2B transciever. The design has been tested and used to gather actual weather data that was used to analyze weather patterns around the campus.
 
+Source: <a href="https://github.com/klauritz/scel-guava">Team Guava's GitHub Repository</a>
+
 <div class="ui medium images">
   <img src="https://klauritz.github.io/images/scel-pcb.png">
   <img src="https://klauritz.github.io/images/scel-irl.png">

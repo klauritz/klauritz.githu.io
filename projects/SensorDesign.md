@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/scel-intern.png
+image: images/scel-intern2.png
 title: "Helping High School Students Become Engineers"
 date: 2018-08-30
 labels:

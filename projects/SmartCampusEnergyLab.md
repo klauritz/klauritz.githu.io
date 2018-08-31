@@ -12,9 +12,7 @@ summary: My team developed a weather-sensing module that will be part of a broad
 ---
 # Smart Campus Energy Lab
 
-<img class="ui centered image" src="https://klauritz.github.io/images/scel.png"/>
-
-
+<img class="ui right floated medium circular image" src="https://klauritz.github.io/images/scel.png"/>
 
 The Smart Campus Energy Lab is a small team of Electrical, Computer, and Mechanical Engineers that are working to provide the school with significant sources of renewable energy on the campus. The long-term goal is to remove the entire campus off of the grid and let it run on it's own renewable energy sources. A secondary effort of the lab is to teach and prepare the students to work in a real-world engineering environment, allowing students to work on a real-world product.
 

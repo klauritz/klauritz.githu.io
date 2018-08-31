@@ -26,6 +26,5 @@ Personally, I oversaw the project and developed most of the electrical schematic
 
 <div class="ui medium images">
   <img src="https://klauritz.github.io/images/scel-pcb.png">
-  <img src="https://klauritz.github.io/images/scel-sch.png">
   <img src="https://klauritz.github.io/images/scel-irl.png">
 </div>

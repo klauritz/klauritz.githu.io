@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: ""
+title: "Helping High School Students Become Engineers"
 date: 2018-08-30
 labels:
   - Mentorship

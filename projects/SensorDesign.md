@@ -12,7 +12,7 @@ summary: I mentored a small group of high school students on how electrical engi
 ---
 
 <img class="ui centered image" src="https://klauritz.github.io/images/scel-intern.png" />
-<div class="ui bottom attached">Left: Kenneth Lauritzen, Mentor; Middle: Nicole (Intern); Right: Emily Lum (Mentor)</div>
+<div class="ui bottom attached">Left: Kenneth Lauritzen (Mentor); Middle: Nicole (Intern); Right: Emily Lum (Mentor)</div>
 
 
 # Introduction

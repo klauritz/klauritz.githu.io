@@ -10,7 +10,7 @@ labels:
 ---
 # Introduction
 
-In the essay called "How to Ask Questions the Smart Way", by Eric Raymond, the author discusses techniques and ettiquette when asking questions on web forums. He discusses what makes a question a 'good' question, and how to avoid asking 'bad' questions.
+In the essay called <a href="http://www.catb.org/esr/faqs/smart-questions.html">"How to Ask Questions the Smart Way"</a>, by Eric Raymond, the author discusses techniques and ettiquette when asking questions on web forums. He discusses what makes a question a 'good' question, and how to avoid asking 'bad' questions.
 
 > *\[Good] questions are a stimulus and a gift. Good questions help us develop our understanding, and often reveal problems we might not have noticed or thought about otherwise.     - Eric Raymond* 
 

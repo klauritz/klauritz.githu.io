@@ -32,7 +32,7 @@ On the other side of the coin, however, I found an example of a not-so-great que
 
 <img class="ui centered image" src="https://klauritz.github.io/images/badquestion-essay.png">
 
-As you can see, the answer is a simple typo found on the line with the switch statement. If the poster just asked a friend or colleage, or looked up the error message on Google first, the question wouldn't be necessary. This question lacks preparation. Not only that, but he's asking for someone else to give him the full solution, instead of asking for someone to explain how he can fix it himself. The question provided nothing to the community. In fact, the community deemed the question to be so bad, that the issue was closed *two hours* after it was posted and labeled as "Off-Topic". Perhhaps next time, the poster will first do his own research and read Eric Raymond's essay before making the same mistake.
+As you can see, the answer is a simple typo found on the line with the switch statement. If the poster just asked a friend or colleage, or looked up the error message on Google first, the question wouldn't be necessary. This question lacks preparation. Not only that, but he's asking for someone else to give him the full solution, instead of asking for someone to explain how he can fix it himself. The question provided nothing to the community. In fact, the community deemed the question to be so bad, that the issue was closed *two hours* after it was posted and labeled as "Off-Topic". Perhaps next time, the poster will first do his own research and read Eric Raymond's essay before making the same mistake.
 
 # Conclusion
 

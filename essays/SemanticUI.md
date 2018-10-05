@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Sample Essay Title"
+title: "Experience Using Semantic UI"
 date: 2018-10-04
 labels:
   - JavaScript

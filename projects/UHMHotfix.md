@@ -38,6 +38,10 @@ I also helped with some data modeling and developing the schema for the database
 # Final Thoughts
 Although I think this application can be improved, I am happy with what our team made. This project was a great way to practice working with React and Javascript. Since this was my first time making an application using the Meteor framework, it was a very beneficial learning experience!
 
+### <a href="http://uhm-hotfix.meteorapp.com/#/">See this application in action!</a>
+
+#### <a href="https://github.com/uhm-hotfix/uhm-hotfix">Check out the GitHub Repo!</a>
+
 
      
 

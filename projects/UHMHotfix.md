@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uhm-hotfix_landingpage.jpg
+image: images/uhm-hotfix_landingpagesquare.jpg
 title: "UHM Hotfix"
 date: 2018-12-07
 labels:
@@ -31,7 +31,7 @@ The app's features include:
 # Personal Contributions
 For this project, I dealt primarily with the user interface and user experience of the application. When talking over what we wanted the application to accomplish, I noticed a lot of similarities with reddit. So I used their design pattern to help develop a clean and simple to use user interface. 
 
-<img class="ui centered image" src="https://klauritz.github.io/images/uhm-hotfix_issuefeed.jpg"/>
+<img class="ui centered image" src="https://klauritz.github.io/images/uhm-hotfix_issuefeed.png"/>
 
 I also helped with some data modeling and developing the schema for the database for our application. The primary technologies used for this application was Meteor, since it was a platform that can quickly be created, revised, and deployed. 
 

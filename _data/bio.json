@@ -108,13 +108,30 @@
         "Design hardware for distributed weather sensor network",
         "Assist in firmware development for the weather sensor nodes"
       ]
+    },
+    {
+      "organization": "Techfolio Designer",
+      "position": "Software Developer",
+      "summary": "Helped develop an application which creates and online portfolio. Aimed at helping students create a portfolio website without the need for web development or experience in coding",
+      "highlights": [
+        "Resolved various bugs and enhancements across the platform",
+        "Added support for image manipulation. Written code to allow users to add, remove, update, and edit images throughout their articles"
+      ]
     }
   ],
-  "awards": [],
   "references": [
     {
       "name": "Available upon request",
       "reference": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hawaii Annual Code Challenge - 2nd Place",
+      "type": "",
+      "date": "November 2018",
+      "awarder": "Hawaii Annual Code Challenge Committee",
+      "summary": "Created a mobile application that uses machine vision to identify plant species and relay relavent information about the plant back the user. Used for identifying rare, endemic plantlife throughout Hawaii."
     }
   ]
 }
